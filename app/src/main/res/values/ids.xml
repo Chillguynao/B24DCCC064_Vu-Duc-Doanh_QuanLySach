@@ -1,0 +1,5 @@
+<resources>
+    <item name="status_unread" type="id" />
+    <item name="status_reading" type="id" />
+    <item name="status_read" type="id" />
+</resources>
